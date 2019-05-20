@@ -1,3 +1,5 @@
+# i have somethings to do ~, xixi
+
 # egg-react-typescript-boilerplate
 
 基于 Egg + React + TypeScript + Webpack 同构工程骨架
